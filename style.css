@@ -31,7 +31,7 @@ padding-left: 2%;
     height:100%
 }
 .top-banner{
-  background-image: url(images/top-banner.png);  
+  background-image: url(Images/top-banner.png);  
   background-repeat: no-repeat;
 }
 section{
@@ -86,7 +86,7 @@ font-weight: 700;
 }
 
 .dream-area{
-background-image: url(images/dream-bg.png);
+background-image: url(Images/dream-bg.png);
 background-repeat: no-repeat;
 background-position:right ;
 }
@@ -104,7 +104,7 @@ background-position:right ;
 }
 .experience-area{
 
-    background-image: url(images/exp-bg.png);
+    background-image: url(Images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
